@@ -1,0 +1,18 @@
+body {
+    background-image: url("bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center top; 
+ }
+#c{
+    font-size: 100px;
+}
+#git{
+    margin-left: 26%;
+}
+#blur {
+    background: rgba(255, 255, 255, 0.3); 
+
+    border-radius: 16%;
+  }
