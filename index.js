@@ -7,7 +7,7 @@ k= mobileCheck()
 if (k==false)
 window.location.replace("desktop.html");
 
-const bgs=["bg/bg1.jpg","bg/bg2.jpg","bg/bg3.jpg","bg/bg4.jpg","bg/bg5.jpg","bg/bg6.jpg"]
+const bgs=["bg/bg1.jpg","bg/bg2.jpg","bg/bg3.jpg","bg/bg4.jpg","bg/bg5.jpg","bg/bg6.jpg","bg/bg7.jpg","bg/bg8.jpg"]
 var item = bgs[Math.floor(Math.random()*bgs.length)];
 document.body.style.backgroundImage = "url("+item+")";
 
