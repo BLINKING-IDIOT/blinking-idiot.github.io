@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("bg3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center top; 
+ }
+div{
+    background: rgba(255, 255, 255, 0.3);
+}
+p{
+    font-size: 125%;
+}
