@@ -12,3 +12,15 @@ div{
 p{
     font-size: 125%;
 }
+#blur2{
+
+    background: rgba(255, 0, 0, 0.3); 
+    width: 40%;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+#about{
+    width: 85%;
+
+}

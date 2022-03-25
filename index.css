@@ -1,58 +1,51 @@
 body {
-    background-image: url("bg4.jpg");
+    background-image: url("bg/bg5.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-position: center top; 
+    background-position: left top; 
  }
 #blur {
     margin: auto;
-    margin-top: 5%;
-    background: rgba(255, 255, 255, 0.3); 
-    width: 87%;
+    margin-top: 25%;
+    background: rgba(0, 0, 0, 0.3); 
+    width: 90%;
+    border-radius: 25px;
 
+}
 
-  }
+#dp{
+    width: 90%;
+    margin: 4%;
+}
 #blur1 {
     margin: auto;
-    background: rgba(255, 255, 255, 0.3); 
-    width: 87%;
 
-  }
-.bio{
-    font-size: 261%;
-    font-family: FreeMono, monospace;
-    
+    width: 87%;
+    border-radius: 25px;
 }
-#c{
-    font-size: 75px;
-    margin-left: 40%;
-    font-family: URW Chancery L, cursive;
+.social{
+    width: 25%;
 }
 #git{
-    margin-left: 26%;
+    margin-left: 5%;
+    width: 31%;
+    margin-top: -3%;
+}
+#c{
+    font-size: 34px;
+    margin-left: auto;
+    font-family: URW Chancery L, cursive;
+}
+#blur2{
+
+    background: rgba(28, 2, 255, 0.3); 
+    width: 45%;
+    border-radius: 10px;
+    margin: auto;
+    
 }
 #about{
-    font-size: 600%;
-    margin-left: 30%;
-    font-family: URW Chancery L, cursive;
-    color: red;
-}
-#aboutdiv{
-    width: 80%;
-    height: 80%;
-    background: rgba(255, 255, 255, 0.1);
-    margin: auto;
-    margin-top: 15%;
-}
-#header{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-    margin-top: 15%;
-}
-#dp{
-    width: 48%;
-    margin: 4%;
+    width: 85%;
+
 }
