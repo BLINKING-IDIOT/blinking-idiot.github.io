@@ -1,0 +1,36 @@
+nav{
+    background-color: #252627;
+}
+body {
+    background-color:#1d1d1d;
+    
+ }
+
+img.circle {
+    border-radius: 50%;
+    max-width: 25%;
+    margin: auto;
+}
+img {
+    display: block;
+    max-width: 100%;
+}
+.words{
+    color:rgb(141, 141, 141);
+    font-size: large;
+}
+.social{
+    width: 75px;
+}
+.social2{
+    width: 70px;
+}
+#message{
+    background-color: black;
+    color: rgb(30, 255, 0);
+    
+}
+.sender{
+    margin-top: 35px;
+}
+
