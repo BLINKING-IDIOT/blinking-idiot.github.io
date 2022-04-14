@@ -1,5 +1,5 @@
 nav{
-    background-color: #252627;
+    background-color: #2c2c2c;
 }
 body {
     background-color:#1d1d1d;
@@ -20,17 +20,18 @@ img {
     font-size: large;
 }
 .social{
-    width: 75px;
-}
-.social2{
     width: 70px;
 }
+
 #message{
-    background-color: black;
-    color: rgb(30, 255, 0);
+    background-color: rgb(255, 240, 240);
+   
     
 }
 .sender{
     margin-top: 35px;
+    margin-left: 10px;
+
 }
+
 
